@@ -1,5 +1,5 @@
 # csd-310
-This repository hold all assignments for the Database Development and Use course.
+This repository holdd all assignments for the Database Development and Use course.
 
 ## Table of Contents
 ### Module 1
