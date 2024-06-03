@@ -7,3 +7,4 @@ Module 1.2 Assignment - This assignment contains the creation of directories and
 
 ### Module 2
 Visual Paradigm - This assignment contains the creation of an ERD using visual paradigm.
+Data Models - This assignment contains the creation of an ERD using business rules and the translation into a NoSQL Data Structure.
