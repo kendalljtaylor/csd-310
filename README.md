@@ -8,3 +8,6 @@ This repository holdd all assignments for the Database Development and Use cours
 ### Module 2
 #### Visual Paradigm - This assignment contains the creation of an ERD using visual paradigm.
 #### Data Models - This assignment contains the creation of an ERD using business rules and the translation into a NoSQL Data Structure.
+
+### Module 3
+#### Normalized Tables - This assignments contains the making of 3NF tables from a 1NF Table
