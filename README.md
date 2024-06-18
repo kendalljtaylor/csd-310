@@ -14,3 +14,6 @@ This repository holdd all assignments for the Database Development and Use cours
 
 ### Module 4
 #### Module 4 Assignment - This assignment contains the creation of a database "movies" in MySQL
+
+### Module 5
+#### MySQL Functions - This assignment contains the usage of MySQL functions and Aliases
