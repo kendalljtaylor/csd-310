@@ -18,3 +18,6 @@ This repository holdd all assignments for the Database Development and Use cours
 ### Module 5
 #### MySQL Functions - This assignment contains the usage of MySQL functions and Aliases
 #### Movies! - This assignment contains an ERD with relationships between studio, film, and genre
+
+### Module 6
+#### MoviesSetup - This assignment contains the database movies with additions and adding users
