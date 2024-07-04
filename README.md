@@ -21,3 +21,7 @@ This repository holdd all assignments for the Database Development and Use cours
 
 ### Module 6
 #### MoviesSetup - This assignment contains the database movies with additions and adding users
+
+### Module 7
+#### movies_queries - This file contains the .py file
+#### Table Queries - This assignment contains the results of the .py file
