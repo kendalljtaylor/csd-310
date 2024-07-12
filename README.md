@@ -25,3 +25,12 @@ This repository holdd all assignments for the Database Development and Use cours
 ### Module 7
 #### movies_queries - This file contains the .py file
 #### Table Queries - This assignment contains the results of the .py file
+
+### Module 8
+#### Updates and Deletes - This assignment contains the updating and deletion of data in a database
+
+### Module 9
+#### Milestone 1 - This assignment contains the initial business rules and ERD for group project
+
+### Module 10
+#### Milestone 2 - This assignment contains the revised ERD and creation of tables and data in a database
