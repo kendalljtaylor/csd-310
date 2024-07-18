@@ -34,3 +34,6 @@ This repository holdd all assignments for the Database Development and Use cours
 
 ### Module 10
 #### Milestone 2 - This assignment contains the revised ERD and creation of tables and data in a database
+
+### Module 11
+#### Milestone 3 - This assignment contains a series of reports within a database to help a business manage sales, supplies, orders, and employees and the queries used to obtain these reports.
