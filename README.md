@@ -37,3 +37,7 @@ This repository holdd all assignments for the Database Development and Use cours
 
 ### Module 11
 #### Milestone 3 - This assignment contains a series of reports within a database to help a business manage sales, supplies, orders, and employees and the queries used to obtain these reports.
+
+### Module 12
+#### Milestone 5 - Presentation of case study and database creation
+#### Quarterly Hours - This assignment shows the creation of new reports for our case study database
